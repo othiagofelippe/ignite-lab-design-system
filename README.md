@@ -1,18 +1,20 @@
-# Ignite Lab Design System - React
+# Ignite Lab Design System
 
-This project was created during a Rocketseat event where we built a design system and learned the best practices for development.
+A sign-in screen built with React and Tailwind CSS during a live Rocketseat event, practicing design system fundamentals with Storybook and Radix UI. Built in October 2022.
 
-## Technologies Used:
+🔗 [Live demo](https://ignite-lab-design-system-eosin.vercel.app)
 
-- Technologies Used
+![Ignite Lab Design System screenshot](.github/screenshot.png)
+
+## Tech stack
+
+- React, TypeScript, Vite
+- Tailwind CSS, Radix UI
 - Storybook
-- TypeScript
-- TailwindCSS
-- Radix UI
 - Axios
 
-### How to use:
-1. Clone this repository to your computer;
-2. Install project dependencies with the command npm install;
-3. Start the development server with the command npm run dev;
-4. Access the address http://localhost:3000 in your browser to view the project.
+## How to run
+
+1. Clone this repository.
+2. Install dependencies with `npm install`.
+3. Run `npm run dev` and open the printed local URL.
